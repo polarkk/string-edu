@@ -1,0 +1,1 @@
+export const PALAVRAS_RUINS = new Set([
